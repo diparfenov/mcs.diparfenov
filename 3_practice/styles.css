@@ -5,8 +5,7 @@
   }
  
 body {
-    background-color: #c3ddf3;
-    width:1440px; 
+    background-color: #c3ddf3; 
     font-size: 50px;
     font-family: 'Helvetica';
 }
@@ -20,7 +19,7 @@ body {
 .ground {
     height: 1080px;
     background-image: url(images/image_1.jpg);
-    background-size: 1440px;
+    background-size: cover;
 }
 
 .name-links {  
