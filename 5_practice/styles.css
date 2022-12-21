@@ -81,7 +81,7 @@
     text-align: center;
     max-width: 1040px;
     width:100%;
-    margin: 0px auto;
+    margin: 0 auto;
   }
 
   .bottles {
@@ -92,6 +92,10 @@
   .titles {
     display: flex;
     justify-content: space-between;
+  }
+  
+  .text {
+    margin-top: 48px;
   }
 
   .image {
