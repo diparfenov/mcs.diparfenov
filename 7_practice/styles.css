@@ -31,16 +31,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 45px 70px;
+    margin: 45px 10px;
     flex-wrap: wrap;
   }
 
   .column {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     text-align: start;
-    flex-direction: column;
 
     border: 1px solid #000000;
     
@@ -73,11 +69,11 @@
       align-items: flex-start;
       margin: 70px 45px;
       flex-wrap: nowrap;
-      width: 1440px;
     }
 
     .column {
       margin: 0px 25px;
+      width: 30%;
   }
   }
   
